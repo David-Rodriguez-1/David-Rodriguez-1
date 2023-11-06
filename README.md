@@ -7,9 +7,9 @@ Mis habilidades
 *Conocimientos sobre bases de datos
 *Pensamiento sistémico
 Mis proyectos
-healtech.tech
-Videogames
-Rick and Morty
+*healtech.tech
+*Videogames
+*Rick and Morty
 Contacto
 ezequiel-07@hotmail.com
 https://www.linkedin.com/in/david-rodriguez--/
