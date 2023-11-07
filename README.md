@@ -2,7 +2,7 @@
 
 # Hola, soy **David Rodriguez**!
 
-Soy un desarrollador web Full Stack con experiencia en Javascript, Typescript, Node.js, Express, React.js, postgresSQL y Zustand, Redux. Me apasiona el desarrollo web tanto para solución de problemas como para crear webs dinámicas y estéticas y disfruto trabajando en proyectos que me desafían a pensar posibles soluciones o hacer aplicaciones web desde cero.
+Soy un desarrollador web Full Stack con experiencia en Javascript, Typescript, Node.js, Express, React.js, postgresSQL, Zustand, Redux. Me apasiona el desarrollo web tanto para solución de problemas como para crear webs dinámicas y estéticas y disfruto trabajando en proyectos que me desafían a pensar posibles soluciones o hacer aplicaciones web desde cero.
 
 **Mis habilidades**
 
