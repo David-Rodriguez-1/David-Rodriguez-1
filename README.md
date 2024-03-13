@@ -1,4 +1,4 @@
-![DavidLinkedIn](https://media.licdn.com/dms/image/D4D16AQHvYPlaUPZgwg/profile-displaybackgroundimage-shrink_350_1400/0/1698894908827?e=1704931200&v=beta&t=WCPJZc-P2C5Ipb-lRzbha7Bwuye3DYBwdGTCwam_7oc)
+![DavidLinkedIn]([https://media.licdn.com/dms/image/D4D16AQHvYPlaUPZgwg/profile-displaybackgroundimage-shrink_350_1400/0/1698894908827?e=1704931200&v=beta&t=WCPJZc-P2C5Ipb-lRzbha7Bwuye3DYBwdGTCwam_7oc](https://media.licdn.com/dms/image/D4D16AQHvYPlaUPZgwg/profile-displaybackgroundimage-shrink_350_1400/0/1698894908827?e=1715817600&v=beta&t=kEQLm81m8YBGO8DPNQ-Dwut2nIt0HmwaBzmJVPVvW0c))
 
 ### <div align="center">Soy David, un desarrollador independiente de tiempo completo 👨‍💻 trabajando de forma remota desde 2013 🚀</div>  
   
