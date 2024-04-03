@@ -119,6 +119,8 @@ If things goes well, this section should automatically be replaced by a list of 
 * [Healtech](https://healtech.tech)
 * [Videogames](https://github.com/David-Rodriguez-1/PI-Videogames-main)
 * [Rick and Morty](https://github.com/David-Rodriguez-1/App-Rick-And-Morty)
+* [PortafolioDev](https://david-rodriguez-dev.vercel.app/)
+* [Freelancers Social App] **Actualmente trabajando**
 
 
 Contacto
