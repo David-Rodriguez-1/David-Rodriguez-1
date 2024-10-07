@@ -1,12 +1,6 @@
 ![DavidLinkedIn](https://media.licdn.com/dms/image/v2/D4D16AQHvYPlaUPZgwg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698894908827?e=1730937600&v=beta&t=Vi9fK3Nv538UXtHMN-C89r-CxuhzWYV6T_rKsvMM7OY)
 
-### <div align="center">Soy David, un desarrollador independiente de tiempo completo 👨‍💻 trabajando de forma remota desde 2023 🚀</div>  
-  
-
-- 🌱 Actualmente estoy estudiando ingles, typescript y MongoDB  
-  
-
-- ❓Pregúntame sobre cualquier cosa relacionada con la pila MERN y tecnologías relacionadas.  
+### <div align="center">Soy David, un desarrollador independiente de tiempo completo 👨‍💻 trabajando de forma remota desde 2023 🚀</div>
   
 
 - ⚡ Dato curioso: Empecé a estudiar Java creyendo que era lo mismo que Javascript  
@@ -85,7 +79,7 @@
   
 **Mis proyectos**
 * [Healtech](https://healtech.tech)
-* [Videogames](https://github.com/David-Rodriguez-1/PI-Videogames-main)
+* [Videogames](https://videogames-prod.vercel.app/)
 * [Rick and Morty](https://github.com/David-Rodriguez-1/App-Rick-And-Morty)
 * [PortafolioDev](https://david-rodriguez-dev.vercel.app/)
 * [Freelancers Social App](https://github.com/David-Rodriguez-1/Red-Social-Freelancers) **Actualmente trabajando**
